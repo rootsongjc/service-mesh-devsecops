@@ -1,6 +1,6 @@
 # 利用服务网格为基于微服务的应用程序实施 DevSecOps
 
-本书译自美国国家标准标准与技术研究院（NIST）特别发布 800-204C，译者 [Jimmy Song](https://jimmysong.io)。
+本书译自美国国家标准标准与技术研究院（NIST）Special Publication 800-204C，译者 [Jimmy Song](https://jimmysong.io)。
 
 <div align="center">
   <a href="https://jimmysong.io/service-mesh-devsecops/">

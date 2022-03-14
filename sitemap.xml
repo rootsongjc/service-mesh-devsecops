@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url> <loc>https://jimmysong.io/service-mesh-devsecops/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://jimmysong.io/service-mesh-devsecops/preface.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://jimmysong.io/service-mesh-devsecops/executive-summary.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://jimmysong.io/service-mesh-devsecops/intro/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://jimmysong.io/service-mesh-devsecops/intro/scope.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://jimmysong.io/service-mesh-devsecops/intro/related-devsecops-initiatives.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://jimmysong.io/service-mesh-devsecops/intro/target-audience.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://jimmysong.io/service-mesh-devsecops/intro/relationship-to-other-nist-guidance-documents.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://jimmysong.io/service-mesh-devsecops/intro/organization-of-this-document.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://jimmysong.io/service-mesh-devsecops/reference-platform/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://jimmysong.io/service-mesh-devsecops/reference-platform/container-orchestration-and-resource-management-platform.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://jimmysong.io/service-mesh-devsecops/reference-platform/service-mesh-software-architecture.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://jimmysong.io/service-mesh-devsecops/devsecops/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://jimmysong.io/service-mesh-devsecops/devsecops/organizational-preparedness-for-devsecops.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://jimmysong.io/service-mesh-devsecops/devsecops/devsecops-platform.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://jimmysong.io/service-mesh-devsecops/devsecops/key-primitives-and-implementation-tasks.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://jimmysong.io/service-mesh-devsecops/implement/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://jimmysong.io/service-mesh-devsecops/implement/description-of-code-types-and-reference-platform-components.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://jimmysong.io/service-mesh-devsecops/implement/ci-cd-pipeline-for-application-code-and-application-services-code.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://jimmysong.io/service-mesh-devsecops/implement/ci-cd-pipeline-for-infrastructure-as-code.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://jimmysong.io/service-mesh-devsecops/implement/ci-cd-pipeline-for-policy-as-code.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://jimmysong.io/service-mesh-devsecops/implement/ci-cd-pipeline-for-observability-as-code.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://jimmysong.io/service-mesh-devsecops/implement/securing-the-ci-cd-pipeline.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://jimmysong.io/service-mesh-devsecops/implement/workflow-models-in-ci-cd-pipelines.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://jimmysong.io/service-mesh-devsecops/implement/security-testing-common-requirement-for-ci-cd-pipelines-for-all-code-types.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://jimmysong.io/service-mesh-devsecops/implement/benefits-of-devsecops-primitives-to-application-security-in-the-service-mesh.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://jimmysong.io/service-mesh-devsecops/implement/leveraging-devsecops-for-continuous-authorization-to-operate-c-ato.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://jimmysong.io/service-mesh-devsecops/summary-and-conclusion/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+</urlset>

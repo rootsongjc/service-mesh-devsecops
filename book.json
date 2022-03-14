@@ -1,6 +1,6 @@
 {
-    "title": "Envoy 基础教程",
-    "description": "Envoy 基础教程",
+    "title": "利用服务网格为基于微服务的应用程序实施 DevSecOps",
+    "description": "译自 NIST 特别发布 800-204C",
     "language": "zh-hans",
     "author": "宋净超(Jimmy Song)",
     "links": {
@@ -36,25 +36,25 @@
     ],
     "pluginsConfig": {
         "theme-default": {
-            "showLevel": true
+            "showLevel": false
         },
         "github": {
-            "url": "https://github.com/rootsongjc/envoy/handbook/"
+            "url": "https://github.com/rootsongjc/service-mesh-devsecops/"
         },
         "editlink": {
-            "base": "https://github.com/rootsongjc/envoy-handbook/blob/main/",
+            "base": "https://github.com/rootsongjc/service-mesh-devsecops/blob/main/",
             "label": "编辑本页"
         },
         "image-captions": {
-            "caption": "图 _PAGE_LEVEL_._PAGE_IMAGE_NUMBER_：_CAPTION_"
+            "caption": "_CAPTION_"
         },
         "github-buttons": {
-            "repo": "rootsongjc/envoy-handbook",
+            "repo": "rootsongjc/service-mesh-devsecops",
             "types": ["star"],
             "size": "small"
         },
         "tbfed-pagefooter": {
-            "copyright": "Copyright © 2017-2022 | 基于 <a href=https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh>CC 4.0 协议</a> 发布 | <a href=https://jimmysong.io>jimmysong.io</a>",
+            "copyright": "Copyright © 2017-2022 | 基于 CC 4.0 协议 | <a href=https://jimmysong.io>jimmysong.io</a>",
             "modify_label": " Updated at ",
             "modify_format": "YYYY-MM-DD HH:mm:ss"
         },
@@ -71,7 +71,7 @@
             ]
         },
         "sitemap-general": {
-            "prefix": "https://jimmysong.io/envoy-handbook/"
+            "prefix": "https://jimmysong.io/service-mesh-devsecops/"
         },
         "ga": {
             "token": "UA-93485976-1"

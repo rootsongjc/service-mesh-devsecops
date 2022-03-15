@@ -7,6 +7,7 @@
     <img src="cover-thumbnail.jpg" title="使用服务网格实现微服务应用的 DevSecOps" alt="使用服务网格实现微服务应用的 DevSecOps">
   </a>
 </div>
+
 ## 关于本书
 
 作者：Ramaswamy Chandramouli
